@@ -7,6 +7,7 @@ name: docker
   push:
     branches:
       - master
+      - error-docker-ci
   pull_request:
     branches:
       - master
